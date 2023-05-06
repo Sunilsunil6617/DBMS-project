@@ -1,0 +1,26 @@
+ROUTES DETAILS-
+
+FERTILIZER MODULE:
+Add(post) => /fertilizer/new
+Delete(delete) => /fertilizer/fid
+Edit(put) => /fertilizer/fid
+show(get) => /fertilizer/fid
+
+
+LABOURS MODULE:
+Add(post) => /labours/new
+Delete(delete) => /labours/wid
+Edit(put) => /labours/wid
+show(get) => /labours/wid
+
+
+EQUIPMENTS MODULE:
+Add(post) => /equipment/new
+Delete(delete) => /equipment/eid
+Edit(put) => /equipment/eid
+show(get) => /equipment/eid
+
+CUSTOMER MODULE:
+Show(get) => /username
+Edit(put) => /username
+Add(post) => /createCustomer
